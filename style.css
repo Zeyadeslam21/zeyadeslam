@@ -1,0 +1,159 @@
+.homepage{
+    margin-top: 10pc;
+    margin-left: 20pc;
+    
+    
+}
+
+.div1{
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+    
+   
+    margin-top: 50px;
+        scroll-behavior: smooth;
+        transition: all 1.5s;
+        width: 200px;
+        height: 400x;
+        margin-left: 40px;
+        transform: translate(0px,-3pc);
+        
+}
+header{
+    background-color: silver;
+}
+.nav{
+    margin-left: 350px;
+}
+.btnplus{
+    margin-left: 500px;
+    transform: translate(80px,-850px);
+}
+.btnplus2{
+    margin-left: 500px;
+    transform: translate(50px,-660px);
+}
+.number{
+    margin-left: 500px;
+    transform: translate(120px,-890px);
+}
+.number2{
+    margin-left: 600px;
+    transform: translate(0px,-680px);
+}
+
+.btnmins{
+    margin-left: 700px;
+    transform: translate(100px,-870px);
+}
+.btnmins2{
+    margin-left: 700px;
+    transform: translate(90px,-640px);
+}
+.z{
+    margin-left: 500px;
+    transform: translate(-150px,-530px);
+}
+.x{
+    margin-left: 300px;
+    transform: translate(0px,-540px);
+}
+.text{
+    margin-left: 800px;
+    transform: translate(40px,-930px);
+}
+.text2{
+    margin-left: 800px;
+    transform: translate(40px,-720px);
+}
+.photo{
+    border-style: solid;
+    height: 600px;
+}
+.h2{
+    
+        border-radius: 10px;
+        border-style: solid;
+        height: 500px;
+        transform: translate(0px,-300px);
+        text-align: center;
+      transform: translate(100pc,-70pc);
+      
+
+}
+
+.c{
+    margin-left: 100px;
+    width: 20px;
+    height: 20px;
+    transform: translate(100pc,-90pc);
+    
+}
+.photo2{
+    margin-left: 20px;
+    transform: translate(0px,-400px);
+
+
+}
+
+.buy{
+    margin-left: 200px;
+    transform: translate(-100px,520px);
+}
+.review{
+   position: absolute;
+   width: 400px;
+   height: 200px;
+   background-color: blue;
+   margin-left: 400px;
+   margin-top: 200px;
+    
+}
+
+.forpass{
+    position: fixed;
+    background-color: chocolate;
+    width: 300px;
+    transform: translate(500px,-20pc);
+    
+}
+.Signup{
+   position: relative;
+   background-color: blue;
+   width: 300px;
+   margin-top: 80px;
+   margin-left: 40px;
+}
+.loginpage{
+    position: relative;
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    margin-left: 50px;
+}
+.image{
+    margin-left: 500px;
+    transform: translate(-230px,-560px);
+    
+}
+.number3{
+    margin-left: 200px;
+    transform: translate(0px,-690px);
+}
+.number4{
+    margin-left: 500px;
+    transform: translate(-300px,-670px);
+}
+.number5{
+    margin-left: 500px;
+    transform: translate(-310px,-650px) ;
+}
+.btn3{
+    margin-left: 200px;
+    transform: translate(0px,-590px);
+    border: 13px;
+    border-radius: 13px;
+    
+}
